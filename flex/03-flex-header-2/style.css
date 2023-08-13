@@ -51,13 +51,14 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  display: flex;  
+  display: flex;
+  align-items: center;
 }
 
 .left-header,
 .right-header {
   display: flex;
-  gap: 16px;
+  gap: 8px;
 }
 
 li {
